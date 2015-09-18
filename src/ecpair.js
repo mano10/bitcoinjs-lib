@@ -77,6 +77,10 @@ ECPair.fromWIF = function (string, network) {
     network: network
   })
 }
+ECPair.fromSeed = function (string) {
+BigInteger
+
+};
 
 ECPair.makeRandom = function (options) {
   options = options || {}
